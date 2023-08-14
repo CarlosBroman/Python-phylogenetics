@@ -1,4 +1,4 @@
-# Prediction tumor nature based on its characteristics (sklearn)
+# Phylogenetics with Biopython and ETE3
 
 This code allows to perform a multiple sequence alignment (MSA) using biopython and clustalW.
 

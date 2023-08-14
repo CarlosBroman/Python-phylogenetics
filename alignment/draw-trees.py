@@ -24,6 +24,8 @@ code2name = {
     "L08040.1":"Prionace glauca"
 }
 
+Valentina = "Valentina"
+print(Valentina)
 code2desc = {
     "L08031.1": """The Great White Shark (Carcharodon carcharias) is the biggest shark in the ocean nowadays.""",
     "L08034.1":"""The Tiger Shark (Galeocerdo cuvier) desc""",
