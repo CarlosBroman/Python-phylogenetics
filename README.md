@@ -10,6 +10,7 @@ First we need to download clustalw from http://www.clustal.org/download/current/
 
 ## Output
 
-The output will be the tree built with Biopython and render with ETE3  
+The output will be the tree built with Biopython and render with ETE3.
+An application will be built to allow the tree creation.
 
 
